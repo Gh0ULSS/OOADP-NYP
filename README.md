@@ -6,5 +6,5 @@ Java and SQL based project for Year 2 Sem 1 in NYP
 -	Using SQLite JDBC Driver for use with SQLite
 
 ### Dependencies
-- SQLite JDBC Drive
+- SQLite JDBC Driver
 - rs2xml
